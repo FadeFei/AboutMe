@@ -1,0 +1,42 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+	/*overflow: hidden;*/
+}
+.name {
+	font-family: sans-serif;
+	text-align: center;
+}
+.calcu-edge {
+	border: solid blue;
+	width: 480px;
+	height: auto;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.calcu-edge p {
+	margin: 0px;
+}
+
+.formula-box {
+	height: 50px;
+	width: 90%;
+	text-align: right;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 20px;
+}
+.key-box {
+	margin-top: 27px;
+}
+
+.key-box button {
+	height: 60px;
+	width: 100px;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
